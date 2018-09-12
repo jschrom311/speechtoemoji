@@ -1,0 +1,26 @@
+{
+  "name": "youtube",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@joegesualdo/get-youtube-subtitles-node": "^0.1.0",
+    "babel-preset-stage-1": "^6.1.18",
+    "lodash": "^4.17.4",
+    "moji-translate": "^1.0.8",
+    "react": "^16.5.0",
+    "react-dom": "^16.5.0",
+    "react-redux": "4.3.0",
+    "react-router": "^2.0.1",
+    "react-scripts": "1.1.5",
+    "react-speech-recognition": "^1.0.7",
+    "redux": "^3.0.4",
+    "youtube-api-search": "^0.0.5",
+    "youtube-captions-scraper": "^1.0.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
