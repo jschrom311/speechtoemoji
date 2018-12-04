@@ -1,5 +1,5 @@
 # About
-This project utilizes the YouTube API.
+This project utilizes the YouTube API.  Captions will be displayed on screen when a video containing captions is played.  The text will then be converted to emoji using 'emojify'.
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
